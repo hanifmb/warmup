@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/ActualSmartPointer.dir/main.cpp.o -o ActualSmartPointer

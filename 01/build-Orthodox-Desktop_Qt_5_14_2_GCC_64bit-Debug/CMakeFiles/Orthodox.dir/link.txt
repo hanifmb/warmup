@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/Orthodox.dir/main.cpp.o CMakeFiles/Orthodox.dir/car.cpp.o -o Orthodox

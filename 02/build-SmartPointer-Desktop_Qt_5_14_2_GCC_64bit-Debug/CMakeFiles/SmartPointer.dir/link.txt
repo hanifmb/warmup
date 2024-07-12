@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/SmartPointer.dir/main.cpp.o CMakeFiles/SmartPointer.dir/part.cpp.o CMakeFiles/SmartPointer.dir/car.cpp.o -o SmartPointer

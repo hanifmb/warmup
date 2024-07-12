@@ -1,0 +1,3 @@
+/home/batman/warmup/00/build-phonebook-Desktop_Qt_5_14_2_GCC_64bit-Debug/CMakeFiles/phonebook.dir
+/home/batman/warmup/00/build-phonebook-Desktop_Qt_5_14_2_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/batman/warmup/00/build-phonebook-Desktop_Qt_5_14_2_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
